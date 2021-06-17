@@ -1,0 +1,81 @@
+/* HEAD */
+/* header */
+header {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 20px;
+}
+
+nav table td tr {
+    padding-left: 38px;
+    padding-right: 48px;
+}
+
+nav td:hover {
+    background-color: lightgrey;
+    font-size: larger;
+}
+
+#b1, #b2 {
+    font-size: 15px;
+    padding-top: 5px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+button a {
+    float: left;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
+
+button:hover {
+    background-color: lightgrey;
+}
+
+/* BODY */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+main {
+    background-color: white;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/* tables */
+table {
+    border-collapse: collapse;
+    text-align: center;
+}
+
+table td {
+    border: 1px solid black;
+}
+
+table img {
+    width: 80px;
+    height: 80px;
+}
+
+#table_2 {
+        text-align: center;
+}
+
+#table_3 {
+    border: 0px solid black;
+    text-align: center;
+}
+
+#table_3 td:hover {
+    background-color: lightgrey;
+    font-size: larger;
+}

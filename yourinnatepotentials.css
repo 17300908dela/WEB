@@ -1,0 +1,51 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightgrey;
+}
+
+header {
+    text-align: center;
+}
+
+table {
+    text-align: center;
+}
+
+table, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 15px;
+}
+
+#img1 {
+    width: 20px;
+    height: 20px;
+    padding-top: 10px;
+    padding-left: 1100px;
+    padding-bottom: 20px;
+}
+
+main {
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-style: solid;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+div {
+    margin-left: 100px;
+    padding-top: 10px;
+    font-size: small;
+}
+
+div img {
+    width: 40px;
+    height: 40px;
+}

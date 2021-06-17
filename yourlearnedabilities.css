@@ -1,0 +1,59 @@
+/* HEAD */
+header {
+    text-align: center;
+}
+
+/* BODY */
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightgrey;
+}
+
+main {
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-style: solid;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+/* TABLES */
+table {
+    width: 100%;
+}
+
+table, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 15px;
+}
+
+th {
+    font-size: 20px;
+}
+
+/* IMAGES */
+#img1 {
+    width: 20px;
+    height: 20px;
+    padding-left: 100px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+div {
+    margin-left: 100px;
+    padding-top: 10px;
+    font-size: small;
+}
+
+div img {
+    width: 40px;
+    height: 40px;
+}
